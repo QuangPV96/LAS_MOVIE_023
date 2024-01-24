@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AbhayaLibre-Regular.ttf</string>
+		<string>Aileron-Bold.otf</string>
+		<string>Aileron-Regular.otf</string>
+		<string>Amiko-Bold.ttf</string>
+		<string>Amiko-Regular.ttf</string>
+		<string>Antonio-Bold.ttf</string>
+		<string>Antonio-Regular.ttf</string>
+		<string>Barlow-Bold.otf</string>
+		<string>Barlow-Regular.otf</string>
+		<string>BebasNeue Bold.otf</string>
+		<string>BebasNeue Regular.otf</string>
+		<string>Butler_Bold.otf</string>
+		<string>Butler_Regular.otf</string>
+		<string>Cabin-Bold.ttf</string>
+		<string>Cabin-Regular.ttf</string>
+		<string>Cardo-Bold.ttf</string>
+		<string>AbhayaLibre-Bold.ttf</string>
+		<string>Cardo-Regular.ttf</string>
+		<string>Cormorant-Bold.otf</string>
+		<string>Cormorant-Regular.otf</string>
+		<string>Dosis-ExtraBold.otf</string>
+		<string>Dosis-Regular.otf</string>
+		<string>Exo2-Bold.ttf</string>
+		<string>Exo2-Regular.ttf</string>
+		<string>Lato-Bold.ttf</string>
+		<string>Lato-Regular.ttf</string>
+		<string>Metropolis-Bold.otf</string>
+		<string>Metropolis-Regular.otf</string>
+		<string>Montserrat-Bold.otf</string>
+		<string>Montserrat-Regular.otf</string>
+		<string>Neris-Light.otf</string>
+		<string>Neris-SemiBold.otf</string>
+		<string>NunitoSans-Bold.ttf</string>
+		<string>NunitoSans-Regular.ttf</string>
+		<string>PlayfairDisplaySC-Bold.otf</string>
+		<string>PlayfairDisplaySC-Regular.otf</string>
+		<string>Poppins-Bold.otf</string>
+		<string>Poppins-Regular.otf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
